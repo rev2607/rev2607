@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Revanth Guthula</h1>
+<h1 align="center">Hi, I'm Revanth Guthula</h1>
 <h3 align="center">ML/AI Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
 
 <p align="center">
