@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 **About Me**
 - 🎓 B.Tech in **AI & Data Science** @ KL University (2022 - 2026)
-- 💡 Passionate about **Machine Learning, AI, and Full-Stack Development**
+- 💡 Passionate about **Machine Learning, and AI**
 - ☁️ Skilled in **Cloud Platforms**: GCP, AWS, Azure
 - 🔍 Exploring **Generative AI, LLMs, and Prompt Engineering**
 - 🌍 Visit my portfolio: [**www.revanth.cloud**](https://www.revanth.cloud)
@@ -40,21 +40,6 @@
 - Built a **Next.js 15 + React 19** restaurant ordering platform with **TypeScript**  
 - Integrated **Supabase**, **Twilio SMS** verification, **Tailwind CSS** & **Radix UI**  
 - Deployed on **Vercel** for global scalability  
-
----
-
-### 🔥 **Featured Projects**
-#### **[DataPulse – Automated EDA & Data Health](https://github.com/rev2607/datapulse)**
-Full-stack app for **data quality monitoring**, detecting outliers & drift with ML  
-`FastAPI` | `React.js` | `Scikit-learn` | `Docker` | `Vercel`
-
-#### **[Image Captioning Web App](https://github.com/rev2607/Django-web-application-image-captioning)**
-Django app using **BLIP Transformer** to generate captions for uploaded images  
-`Python` | `Django` | `PyTorch` | `Transformers`
-
-#### **[Face Emotion Detection](https://github.com/rev2607/Face-emotion-detection)**
-CV app detecting human emotions using **OpenCV + FER**  
-`Python` | `Keras` | `MTCNN`
 
 ---
 
