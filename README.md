@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 **About Me**
 - 🎓 B.Tech in **AI & Data Science** @ KL University (2022 - 2026)
-- 💡 Passionate about **Machine Learning, and AI**
+- 💡 Passionate about **Machine Learning and AI**
 - ☁️ Skilled in **Cloud Platforms**: GCP, AWS, Azure
 - 🔍 Exploring **Generative AI, LLMs, and Prompt Engineering**
 - 🌍 Visit my portfolio: [**www.revanth.cloud**](https://www.revanth.cloud)
@@ -21,17 +21,43 @@
 ---
 
 ### 🚀 **Skills**
+
 #### **Languages**
-`Python` | `JavaScript` | `Java` | `SQL` | `HTML` | `CSS`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+</p>
 
 #### **Frameworks & Tools**
-`React` | `Next.js` | `Django` | `FastAPI` | `Docker` | `Linux`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
 
 #### **ML & AI**
-`TensorFlow` | `PyTorch` | `Scikit-learn` | `LangChain` | `Hugging Face` | `Responsible AI`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+</p>
 
 #### **Cloud**
-`GCP` | `AWS` | `Azure` | `Render` | `Vercel`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
+</p>
 
 ---
 
@@ -61,3 +87,4 @@
 
 ### 📫 **Let's Connect**
 💌 [Email](mailto:revanthg2607@gmail.com) | 🌐 [Portfolio](https://www.revanth.cloud) | 💼 [LinkedIn](https://www.linkedin.com/in/rev2607)
+
