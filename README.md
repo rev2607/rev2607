@@ -61,7 +61,3 @@
 
 ### 📫 **Let's Connect**
 💌 [Email](mailto:revanthg2607@gmail.com) | 🌐 [Portfolio](https://www.revanth.cloud) | 💼 [LinkedIn](https://www.linkedin.com/in/rev2607)
-
----
-
-⭐ **Feel free to fork & star my repositories if you like them!**  
