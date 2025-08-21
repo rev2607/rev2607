@@ -66,8 +66,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40" height="40" style="background-color:white; border-radius:8px; padding:4px;"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" width="40" height="40"/>
 </p>
+
 
 ---
 
