@@ -33,13 +33,11 @@
 #### 🔴 Redis-Like In-Memory Database (C++ + AWS)
 - Built a **Redis-inspired server** in C++ supporting `SET/GET/DEL`, TTL, and sorted set operations.
 - Implemented **thread pool + event loop** for concurrency and non-blocking I/O.
-- Deployed on **AWS EC2** with load balancing + CloudWatch monitoring.  
 🔗 [View Project](https://github.com/rev2607/redis-x)
 
 #### 🖼️ Image Captioning Web App (Django + PyTorch + AWS)
 - Built a **Django-based application** integrating BLIP transformer models for real-time caption generation.
 - Optimized inference with **batch processing + caching**.
-- Deployed on **AWS EC2 + S3**, accessible via a web interface.  
 🔗 [View Project](https://github.com/rev2607/Django-web-application-image-captioning)
 
 
