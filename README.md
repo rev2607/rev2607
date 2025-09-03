@@ -22,7 +22,7 @@
 ### 🧑‍💻 **About Me**
 - 🎓 B.Tech in **Artificial Intelligence & Data Science** @ KL University (2022 - 2026)
 - ⚡ Building **scalable systems** in **C++/Python** and deploying them on the cloud
-- ☁️ Multi-cloud certified → **GCP Digital Leader | Azure AI Engineer | Automation Anywhere**
+- ☁️ Multi-cloud certified → **GCP Digital Leader | Azure AI Engineer 
 - 🔍 Exploring ** AI, Cloud Architectures**
 - 🌍 Portfolio → [**www.revanth.cloud**](https://www.revanth.cloud)
 
