@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Revanth Guthula</h1>
-<h3 align="center">Software Engineer | ML/AI Enthusiast | Cloud Developer</h3>
+<h3 align="center">Software Engineer | Cloud Developer</h3>
 
 <p align="center">
   <a href="mailto:revanthg2607@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
@@ -20,10 +20,10 @@
 ---
 
 ### 🧑‍💻 **About Me**
-- 🎓 B.Tech in **AI & Data Science** @ KL University (2022 - 2026)
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** @ KL University (2022 - 2026)
 - ⚡ Building **scalable systems** in **C++/Python** and deploying them on the cloud
 - ☁️ Multi-cloud certified → **GCP Digital Leader | Azure AI Engineer | Automation Anywhere**
-- 🔍 Exploring **Generative AI, LLMs, Cloud Architectures**
+- 🔍 Exploring ** AI, Cloud Architectures**
 - 🌍 Portfolio → [**www.revanth.cloud**](https://www.revanth.cloud)
 
 ---
@@ -34,7 +34,7 @@
 - Built a **Redis-inspired server** in C++ supporting `SET/GET/DEL`, TTL, and sorted set operations.
 - Implemented **thread pool + event loop** for concurrency and non-blocking I/O.
 - Deployed on **AWS EC2** with load balancing + CloudWatch monitoring.  
-🔗 [View Project](https://github.com/rev2607/your-redis-project-link)
+🔗 [View Project](https://github.com/rev2607/redis-x)
 
 #### 🖼️ Image Captioning Web App (Django + PyTorch + AWS)
 - Built a **Django-based application** integrating BLIP transformer models for real-time caption generation.
@@ -42,11 +42,6 @@
 - Deployed on **AWS EC2 + S3**, accessible via a web interface.  
 🔗 [View Project](https://github.com/rev2607/Django-web-application-image-captioning)
 
-#### 📊 DataPulse – Scalable Data Health Monitoring
-- Designed to analyze **10M+ records** for missing values, outliers, and drift.
-- Reduced validation time by **40%** using async task execution + containerization.
-- Tech: **FastAPI, React, Docker, AWS**  
-🔗 [View Project](https://github.com/rev2607/datapulse)
 
 ---
 
