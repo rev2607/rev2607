@@ -47,8 +47,7 @@
 
 **Languages**: C++, Python, JavaScript, SQL  
 **Frameworks**: Django, FastAPI, React, Next.js  
-**Cloud**: AWS, GCP, Azure, Vercel, Render
-**ML/AI**: PyTorch, TensorFlow, HuggingFace  
+**Cloud**: AWS, GCP, Azure, Vercel
 **Tools**: Docker, GitHub Actions, Linux  
 
 ---
