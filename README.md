@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Revanth Guthula</h1>
-<h3 align="center">ML/AI Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">Software Engineer | ML/AI Enthusiast | Cloud Developer</h3>
 
 <p align="center">
   <a href="mailto:revanthg2607@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
@@ -12,79 +12,60 @@
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rev2607&show_icons=true&theme=tokyonight" alt="Revanth's GitHub stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rev2607&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rev2607&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rev2607&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
 ---
 
 ### 🧑‍💻 **About Me**
 - 🎓 B.Tech in **AI & Data Science** @ KL University (2022 - 2026)
-- 💡 Passionate about **Machine Learning and AI**
-- ☁️ Skilled in **Cloud Platforms**: GCP, AWS, Azure
-- 🔍 Exploring **Generative AI, LLMs, and Prompt Engineering**
-- 🌍 Visit my portfolio: [**www.revanth.cloud**](https://www.revanth.cloud)
+- ⚡ Building **scalable systems** in **C++/Python** and deploying them on the cloud
+- ☁️ Multi-cloud certified → **GCP Digital Leader | Azure AI Engineer | Automation Anywhere**
+- 🔍 Exploring **Generative AI, LLMs, Cloud Architectures**
+- 🌍 Portfolio → [**www.revanth.cloud**](https://www.revanth.cloud)
 
 ---
 
-### 🚀 **Skills**
+### 🚀 **Featured Projects**
 
-#### **Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-</p>
+#### 🔴 Redis-Like In-Memory Database (C++ + AWS)
+- Built a **Redis-inspired server** in C++ supporting `SET/GET/DEL`, TTL, and sorted set operations.
+- Implemented **thread pool + event loop** for concurrency and non-blocking I/O.
+- Deployed on **AWS EC2** with load balancing + CloudWatch monitoring.  
+🔗 [View Project](https://github.com/rev2607/your-redis-project-link)
 
-#### **Frameworks & Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
+#### 🖼️ Image Captioning Web App (Django + PyTorch + AWS)
+- Built a **Django-based application** integrating BLIP transformer models for real-time caption generation.
+- Optimized inference with **batch processing + caching**.
+- Deployed on **AWS EC2 + S3**, accessible via a web interface.  
+🔗 [View Project](https://github.com/rev2607/Django-web-application-image-captioning)
 
-
-#### **ML & AI**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="40" height="40" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" />
-</p>
-
-#### **Cloud**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
-</p>
-
+#### 📊 DataPulse – Scalable Data Health Monitoring
+- Designed to analyze **10M+ records** for missing values, outliers, and drift.
+- Reduced validation time by **40%** using async task execution + containerization.
+- Tech: **FastAPI, React, Docker, AWS**  
+🔗 [View Project](https://github.com/rev2607/datapulse)
 
 ---
 
-### 💼 **Work Experience**
-**IT Software Developer @ Ghar Ka Khana (Jul 2025 - Present)**  
-- Built a **Next.js 15 + React 19** restaurant ordering platform with **TypeScript**  
-- Integrated **Supabase**, **Twilio SMS** verification, **Tailwind CSS** & **Radix UI**  
-- Deployed on **Vercel** for global scalability  
+### 🛠️ **Tech Stack**
+
+**Languages**: C++, Python, JavaScript, SQL  
+**Frameworks**: Django, FastAPI, React, Next.js  
+**Cloud**: AWS, GCP, Azure, Vercel, Render
+**ML/AI**: PyTorch, TensorFlow, HuggingFace  
+**Tools**: Docker, GitHub Actions, Linux  
 
 ---
 
-### 🏅 **Achievements**
-- 📄 Research: *Enhanced SVM Model Optimized with Minimum Bayes Error Rate* – Springer ICT4SD 2025
-- 🏆 NXP AIM India 2024 – Regionals (Obstacle Avoiding Robot with ROS2)
-- ☁️ **Cloud Digital Leader** – Google Cloud  
-- 🤖 **AI Engineer Associate** – Microsoft Azure  
-
+### 🏅 **Highlights**
+- 📄 Research: *Enhanced SVM Model Optimized with Minimum Bayes Error Rate* – Springer ICT4SD 2025  
+- ☁️ **Google Cloud Digital Leader** | **Microsoft Azure AI Engineer Associate** | **Automation Anywhere Advanced RPA**  
+- 🏆 **NXP AIM India 2024 (Regionals)** – Built obstacle-avoiding robot with ROS2  
 
 ---
 
-### 📫 **Let's Connect**
-💌 [Email](mailto:revanthg2607@gmail.com) | 🌐 [Portfolio](https://www.revanth.cloud) | 💼 [LinkedIn](https://www.linkedin.com/in/rev2607)
-
+### 📫 **Let’s Connect**
+💌 [Email](mailto:revanthg2607@gmail.com) | 🌐 [Portfolio](https://www.revanth.cloud) | 💼 [LinkedIn](https://www.linkedin.com/in/rev2607)  
