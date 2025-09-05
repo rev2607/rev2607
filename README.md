@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Revanth Guthula</h1>
-<h3 align="center">Software Engineer | Cloud Developer</h3>
+<h3 align="center"> AI Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:revanthg2607@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
