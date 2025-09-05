@@ -44,11 +44,11 @@
 ---
 
 ### 🛠️ **Tech Stack**
-
-**Languages**: C++, Python, JavaScript, SQL  
-**Frameworks**: Django, FastAPI, React, Next.js  
-**Cloud**: AWS, GCP, Azure, Vercel
-**Tools**: Docker, GitHub Actions, Linux  
+**Languages**: Python, C++, SQL, JavaScript, TypeScript  
+**ML/AI**: Machine Learning, Deep Learning, Transformers, Computer Vision  
+**Frameworks**: Django, FastAPI, React, Next.js, PyTorch, Scikit-learn, TensorFlow, Hugging Face, LangChain  
+**Cloud**: AWS (EC2, S3, Lambda, Elastic Beanstalk), GCP, Azure, Vercel, Render  
+**Tools**: Docker, Git, GitHub, Supabase, Twilio  
 
 ---
 
