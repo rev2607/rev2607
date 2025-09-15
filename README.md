@@ -28,27 +28,6 @@
 
 ---
 
-### 🚀 **Featured Projects**
-
-#### 📘 StudentHub – Competitive Exam Mock Test Platform
-- Built a **full-stack test-taking platform** (Next.js, Supabase, PostgreSQL) for 50+ users.  
-- Features: secure auth, role-based access, live exam environment, analytics dashboards.  
-- Deployed on Vercel with CI/CD → optimized DB queries & frontend load times by **40%**.  
-🔗 [View Project](https://github.com/rev2607)
-
-#### 🍴 Ghar Ka Khana – Restaurant Ordering Platform
-- Developed a **distributed, fault-tolerant ordering system** using **Next.js + Supabase**.  
-- Integrated **OTP login (Twilio), role-based auth, scalable APIs**.  
-- Deployed on **AWS with Docker**, achieving **30% faster response times**.  
-🔗 [View Project](https://github.com/rev2607)
-
-#### 🤖 Mini RAG Q&A Bot (LangChain + OpenAI + FastAPI)
-- End-to-end **Retrieval-Augmented Generation system** with <500ms latency.  
-- Built with **FastAPI, embeddings optimization, observability & unit testing**.  
-🔗 [View Project](https://github.com/rev2607/Mini-RAG-QA-Bot-with-LangChain-OpenAI)
-
----
-
 ### 🛠️ **Tech Stack**
 **Languages**: C++, Python, SQL, JavaScript, TypeScript  
 **Frontend**: React, Next.js, Tailwind CSS, Responsive Design  
