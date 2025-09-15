@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Revanth Guthula</h1>
-<h3 align="center">Full Stack Developer | AI & Data Science Student</h3>
+<h3 align="center">Aspiring Full Stack Developer | Final Year Artificial Intelligence & Data Science Student</h3>
 
 <p align="center">
   <a href="mailto:revanthgwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
