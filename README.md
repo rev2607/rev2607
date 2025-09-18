@@ -9,13 +9,6 @@
   <a href="https://www.revanth.cloud"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=google-chrome"></a>
 </p>
 
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rev2607&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rev2607&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
