@@ -43,18 +43,6 @@ Linux Administration, TCP/IP, DNS, Load Balancing, Firewalls
 
 ---
 
-### 🚀 Featured Project — Kube QR
-
-**Kube QR — Docker • Kubernetes • Terraform • GitHub Actions**
-
-> A full-stack QR generation platform deployed on a scalable Kubernetes cluster
-
-- Containerized microservices with **multi-node Kubernetes deployment**
-- End-to-end **CI/CD pipeline** for build, test, vulnerability scan & rollout automation
-- Infrastructure provisioned using **Terraform/Pulumi**
-- Monitoring with **Prometheus + Grafana** for performance insights
-
----
 
 ### 💼 Experience
 
