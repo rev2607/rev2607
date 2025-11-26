@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">hey, i'm revanth guthula 👋</h1>
-<h3 align="center">DevOps & Cloud Engineer · Kubernetes · Terraform · CI/CD · Linux</h3>
+<h1 align="center">Hi, I'm Revanth Guthula 👋</h1>
+<h3 align="center">DevOps & Cloud Engineer • Kubernetes • Terraform • CI/CD • Linux</h3>
 
 <p align="center">
   <a href="mailto:revanthgwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
@@ -11,105 +11,84 @@
 
 ---
 
-### 👨‍💻 about me
-
-- engineer obsessed with **automation, reliability, and clean infra**  
-- hands-on with **Docker, Kubernetes, Terraform, CI/CD, Linux, and multi-cloud (AWS · GCP · Azure)** :contentReference[oaicite:0]{index=0}  
-- love taking apps from *“it runs on my laptop”* to **production-ready on clusters**  
-- currently finishing my **B.Tech in Artificial Intelligence & Data Science @ KL University (2022–2026)**  
-- goal: **build & operate production-grade systems** that are observable, secure, and boring (in a good way)
-
----
-
-### 🛠️ tech i work with
-
-**languages & scripting**
-- Go · Python · Bash/Shell · YAML · SQL :contentReference[oaicite:1]{index=1}  
-
-**devops · automation**
-- GitHub Actions · Jenkins · GitOps  
-- Terraform · Pulumi · Ansible  
-- CI/CD pipelines · infra as code · release automation  
-
-**containers & orchestration**
-- Docker · Docker Compose  
-- Kubernetes · Helm · deployment strategies (rolling, blue/green, canary)  
-
-**cloud platforms**
-- **AWS:** EC2, S3, IAM, RDS, Lambda  
-- **GCP & Azure:** core compute, storage & identity services :contentReference[oaicite:2]{index=2}  
-
-**monitoring & observability**
-- Prometheus · Grafana · DataDog (basic)  
-- metrics, dashboards, alerts  
-
-**networking & linux**
-- Linux administration · TCP/IP · DNS · firewalls · load balancing  
+### 👨‍💻 About Me
+- DevOps & Cloud Engineer focused on automation, scalable infra, and reliability.
+- Hands-on experience with **Docker, Kubernetes, Terraform, CI/CD, Linux & Cloud Platforms (AWS, GCP, Azure).**
+- Passionate about transforming apps from *local builds* to **production-ready deployments on clusters**.
+- Currently completing **B.Tech in Artificial Intelligence & Data Science (2022–2026)**.
+- Mission: Build systems that are **observable, secure, fast, and boringly reliable**.
 
 ---
 
-### 🚀 featured project – kube qr
+### 🛠 Tech Stack
 
-**Kube QR · Docker · Kubernetes · Terraform · GitHub Actions**
+**Languages & Scripting**  
+Go, Python, Bash/Shell, YAML, SQL
 
-> full-stack QR code generator running on a Kubernetes cluster
+**DevOps & Automation**  
+GitHub Actions, Jenkins, GitOps, Terraform, Pulumi, Ansible, CI/CD Pipelines
 
-- containerized services deployed on a **multi-node Kubernetes cluster**  
-- **end-to-end CI/CD** with GitHub Actions: build, test, security checks, and rollout strategies  
-- infra provisioned using **Terraform/Pulumi** for scalable workloads  
-- **Prometheus + Grafana dashboards** for latency, container utilization & basic SLO-style monitoring :contentReference[oaicite:3]{index=3}  
+**Containers & Orchestration**  
+Docker, Docker Compose, Kubernetes, Helm, Deployment Strategies (Rolling, Blue-Green, Canary)
 
-_(repo link coming soon / check pinned repos on my profile)_
+**Cloud Platforms**  
+**AWS:** EC2, S3, IAM, RDS  
+**GCP & Azure:** Compute, Storage, Identity services
 
----
+**Monitoring & Observability**  
+Prometheus, Grafana, Datadog (Basics), Metrics & Alerts
 
-### 💼 experience
-
-**Software Developer Intern – Ghar Ka Khana · Navi Mumbai**  
-- built a **full-stack Next.js application** with secure online payment flows  
-- set up **GitHub Actions pipelines** for automated staging & production deployments  
-- debugged **infra & networking issues** across caching, reverse proxy, and environment configs :contentReference[oaicite:4]{index=4}  
-
-**Full Stack Intern – Student Hub · Hyderabad**  
-- shipped a **React 19 + Vite SPA (100+ routes)** with a **FastAPI gateway** for unified auth & state  
-- implemented a **news ingestion pipeline** using FastAPI + Supabase + Perplexity with validation & caching  
-- focused on **performance, reliability, and clean API contracts** :contentReference[oaicite:5]{index=5}  
+**Networking & Linux**  
+Linux Administration, TCP/IP, DNS, Load Balancing, Firewalls
 
 ---
 
-### 🎓 education
+### 🚀 Featured Project — Kube QR
 
+**Kube QR — Docker • Kubernetes • Terraform • GitHub Actions**
+
+> A full-stack QR generation platform deployed on a scalable Kubernetes cluster
+
+- Containerized microservices with **multi-node Kubernetes deployment**
+- End-to-end **CI/CD pipeline** for build, test, vulnerability scan & rollout automation
+- Infrastructure provisioned using **Terraform/Pulumi**
+- Monitoring with **Prometheus + Grafana** for performance insights
+
+---
+
+### 💼 Experience
+
+**Software Developer Intern — Ghar Ka Khana (Navi Mumbai)**  
+- Built a production-ready **Next.js application** with online payments.
+- Automated deployments using **GitHub Actions**.
+- Troubleshot infra & networking issues across caching, proxying, and containers.
+
+**Full Stack Intern — Student Hub (Hyderabad)**  
+- Developed a **React 19 + Vite SPA (100+ routes)** with **FastAPI Gateway**
+- Implemented news ingestion pipeline using **FastAPI + Supabase + Perplexity**
+- Focused on reliability, scaling, and performance optimization.
+
+---
+
+### 🎓 Education
 **KL University, Hyderabad**  
-_B.Tech – Artificial Intelligence & Data Science (2022–2026)_  
-- CGPA: **7.76**  
-- relevant coursework: OS, Computer Networks, Data Structures, Algorithms, DBMS, ML, DL, MLOps :contentReference[oaicite:6]{index=6}  
+_B.Tech — Artificial Intelligence & Data Science (2022–2026)_  
+CGPA: **7.76**
 
 ---
 
-### 🏅 certifications & publication
-
-- 🛰️ **Google Cloud Digital Leader** – Certified  
-- 🤖 **Microsoft Azure AI Engineer Associate** – Certified  
-- 📄 Publication:  
-  *“An Enhanced SVM Model Optimised with Minimum Bayes Error Rate for Mental Disorder Detection,” Springer ICT4SD 2025, Goa* :contentReference[oaicite:7]{index=7}  
-
----
-
-### 📌 currently
-
-- sharpening **Kubernetes + Go + Terraform** for production-style setups  
-- building projects that look like **real infra for real teams**, not toy demos  
-- actively looking for **DevOps / Cloud / SRE roles** – internships or full-time  
+### 🏅 Certifications & Publication
+- **Google Cloud Digital Leader — Certified**
+- **Microsoft Azure AI Engineer Associate — Certified**
+- **Research Publication:**  
+  _“Enhanced SVM Model Optimized with Minimum Bayes Error Rate,” Springer ICT4SD 2025, Goa_
 
 ---
 
-### 📫 reach out
+### 📫 Contact
+📩 Email: **revanthgwork@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/rev2607**  
+🌐 Portfolio: **www.revanth.cloud**  
+🐙 GitHub: **github.com/rev2607**
 
-<p align="left">
-  💌 <a href="mailto:revanthgwork@gmail.com">revanthgwork@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/rev2607">linkedin.com/in/rev2607</a><br>
-  🌐 <a href="https://www.revanth.cloud">revanth.cloud</a><br>
-  🐙 <a href="https://github.com/rev2607">github.com/rev2607</a>
-</p>
-
-> if you’re building infra, dev tools, or anything cloud-native, my DMs are open.
+> Open to DevOps / Cloud / SRE roles — Internships or Full-Time
