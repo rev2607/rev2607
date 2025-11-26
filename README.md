@@ -43,36 +43,6 @@ Linux Administration, TCP/IP, DNS, Load Balancing, Firewalls
 
 ---
 
-
-### 💼 Experience
-
-**Software Developer Intern — Ghar Ka Khana (Navi Mumbai)**  
-- Built a production-ready **Next.js application** with online payments.
-- Automated deployments using **GitHub Actions**.
-- Troubleshot infra & networking issues across caching, proxying, and containers.
-
-**Full Stack Intern — Student Hub (Hyderabad)**  
-- Developed a **React 19 + Vite SPA (100+ routes)** with **FastAPI Gateway**
-- Implemented news ingestion pipeline using **FastAPI + Supabase + Perplexity**
-- Focused on reliability, scaling, and performance optimization.
-
----
-
-### 🎓 Education
-**KL University, Hyderabad**  
-_B.Tech — Artificial Intelligence & Data Science (2022–2026)_  
-CGPA: **7.76**
-
----
-
-### 🏅 Certifications & Publication
-- **Google Cloud Digital Leader — Certified**
-- **Microsoft Azure AI Engineer Associate — Certified**
-- **Research Publication:**  
-  _“Enhanced SVM Model Optimized with Minimum Bayes Error Rate,” Springer ICT4SD 2025, Goa_
-
----
-
 ### 📫 Contact
 📩 Email: **revanthgwork@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/rev2607**  
