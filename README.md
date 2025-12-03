@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Tech I work with
+## Tech I work with
 
 **Languages:** Python, JavaScript, Swift  
 **Frontend:** React  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧩 Freelance work
+## Freelance work
 
 - **Diyas Fin Corp – Client & Loan Management App**  
   React Native app for financial agents to manage customer profiles, loan applications, and follow-ups.
@@ -27,7 +27,7 @@
 
 ---
 
-## 📫 Find me
+## Find me
 
 - Portfolio: [revanth.cloud](https://www.revanth.cloud)
 - LinkedIn: [linkedin.com/in/rev2607](https://www.linkedin.com/in/rev2607)
