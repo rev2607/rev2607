@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Revanth
 
 **Software Developer** with hands-on experience in **full-stack** and **mobile** app development.  
-I like taking ideas from *“this would be cool”* to **deployed and usable**.
 
 ---
 
